@@ -21,14 +21,14 @@ repository               : "Lulu-Chen-Main/Lulu-Chen-Main.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lulu Chen.png"
+  avatar           : "Lulu Chen1.png"
   name             : "Lulu Chen"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate"
   location         : "Washington D.C."
   employer         : "Washington University"
   uri              : # URL
-  email            : "lulu.chen1@gwu.edu" 
+  email            : lulu.chen1@gwu.edu
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
