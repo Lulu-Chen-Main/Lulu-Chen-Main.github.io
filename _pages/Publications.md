@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Presentations"
-permalink: /Presentations/
+permalink: /presentations/
 author_profile: true
 redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
