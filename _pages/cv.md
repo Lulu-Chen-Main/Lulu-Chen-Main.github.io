@@ -21,7 +21,6 @@ Work experience
   * The George Washington University
 
 * Boya Postdoctoral Fellowship (2022 - 2023)
-  * Github University
   * Peking University
   
 Publications
