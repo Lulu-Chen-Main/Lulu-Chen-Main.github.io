@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-Education
+Education experience
 ======
 * 2016 - 2021: Ph.D of Atmospheric Physics and Atmospheric Environment, School of Physics, Peking University
 * 2019 - 2020: Visiting scholar in Washington University in St. Louis 
