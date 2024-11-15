@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 Education
 ======
 * 2016 - 2021: Ph.D of Atmospheric Physics and Atmospheric Environment, School of Physics, Peking University
