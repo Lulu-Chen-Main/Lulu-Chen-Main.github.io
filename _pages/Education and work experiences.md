@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications and Presentations"
-permalink: /Publications and Presentations/
+title: "Education and Work"
+permalink: /Education and Work/
 author_profile: true
 redirect_from:
   - /resume
