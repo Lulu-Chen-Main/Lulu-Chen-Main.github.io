@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Publications and Presentations"
-permalink: /Publications and Presentations/
+title: "Publications"
+permalink: /Publications/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 Publications
 ======
   --------------- 2024 
