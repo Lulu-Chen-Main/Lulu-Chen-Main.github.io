@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 redirect_from:
 ---
-
+{% include base_path %}
 * -------------------- 2023 -------------------- 
   * **Lulu Chen**, Jintai Lin, Junwei Xu, Hao Kong, Hongjian Weng, Yuhang Zhang, Xiao Yun and Shu Tao: Chemically enhanced transboundary ozone pollution suppresses city-level emission control benefits, Under review.
   * Jingxu Wang, Jintai Lin, Yu Liu, Feng Wu,Ruijing Ni, **Lulu Chen**, Fangxuan Ren, Mingxi Du, Zhongyi Li, Haoyu Zhang, and Zhengzhong Liu: Direct and indirect consumption activities drive distinct urban-rural inequalities in air pollution-related mortality in China, Science Bulletin, 69, 4, doi:10.1016/j.scib.2023.12.023, 2024.
