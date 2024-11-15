@@ -57,21 +57,19 @@ Publications
   * Xiao Liu, Xing Gao, Xinbin Wu, Weilin Yu, **Lulu Chen**, Ruijing Ni, Yu Zhao, Hongwei Duan, Fuming Zhao, Lilin Chen, Shengming Gao, Ke Xu, Jintai Lin, and Anthony Y. Ku: Updated hourly emissions factors for Chinese power plants showing the impact of widespread ultralow emissions technology deployment, Environmental Science & Technology, doi:10.1021/acs.est.8b07241, 2019.
   * 2018
   * Mengyao Liu, Jintai Lin, Yuchen Wang, Yang Sun, Bo Zheng, Jingyuan Shao, Lulu Chen, Yixuan Zheng, Jinxuan Chen, Tzung-May Fu, Yingying Yan, Qiang Zhang, and Zhaohua Wu: Spatiotemporal variability of NO2 and PM2.5 over Eastern China: observational and model analyses with a novel statistical method, Atmospheric Chemistry and Physics, 18, 12933-12952, doi:10.5194/acp-18-12933-2018.
-
-
   
 Talks
 ======
+  * Chemically enhanced transboundary ozone pollution suppresses city-level emission control benefits, Oral presentation at AGU Fall Meeting, San Francisco, USA, 2023.
+  * Chemically enhanced transboundary ozone pollution suppresses city-level emission control benefits, Oral presentation at the 8th Youth Geoscience Forum, Wuhan, China, 2023.
+  * Inequality in Historical Transboundary Anthropogenic PM2.5 and Ozone Health Impacts, Oral presentation at AOGS Annual Meeting, Online, 2022.
+  * A historical assessment of global health impacts by regionally produced PM2.5 pollution, Poster presentation at AGU Fall Meeting, Online, 2020.
+  * Historical assessment of anthropogenic PM2.5 health impacts, Oral presentation at the 1th GEOS-Chem Europe User’s Meeting, Online, 2020.
+  * Changes in global surface ozone and health implications over the past decades, Poster presentation at the AGU Fall Meeting, San Francisco, USA, 2019.
+  * Changes in regions’ surface ozone and health implications over the past decades, Oral Presentation at EGU Meeting, Vienna, Austria, 2019.
+  * Changes in global surface ozone and health implications over the past decades, Poster presentation at the 11th International Symposium on Environmental Geochemistry, Beijing, China, 2019.
+  * Integrating satellite observations and modelling of air pollutants in the context of globalizing air pollution, Oral Presentation at AGU Fall Meeting, Washington D.C., USA, 2018.
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
