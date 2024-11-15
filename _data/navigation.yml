@@ -8,14 +8,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
 
   - title: "Education and Work"
     url: /Education and Work/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Publications and Presentations"
     url: /Publications and Presentations/
