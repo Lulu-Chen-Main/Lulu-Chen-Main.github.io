@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
 ---
 
-{% include base_path %}
-==============
 * -------------------- 2024 --------------------
   * C.-H. Xu, J.-T. Lin, H. Kong, J.-L. Jin, **L.-L. Chen**, and X.-B. Xu.: _Rapid Increases of Ozone Concentrations over Tibetan Plateau Caused by Local and Non-Local Factors_, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2024-3471](https://doi.org/10.5194/egusphere-2024-3471), 2024.
     
