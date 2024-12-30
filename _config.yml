@@ -38,23 +38,11 @@ author:
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Lulu-Chen-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
-  cv: "https://github.com/Lulu-Chen-Main/Lulu-Chen-Main.github.io/blob/master/files/CV_LuluChen_2024.docx"
-  #scopus           : # URL
+  
 
   # Repositories and software development
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  manuscripts:
-    #title: 'Journal Articles'    
-    (1)	Lulu Chen, Jintai Lin, Ruijing Ni, Mingxi Du, Yingying Yan, Mengyao Liu, Jingxu Wang, Hongjian Weng, Hao Kong, Yuanhong Zhao, Chunjin Li, Randall V. Martin: Persistent linkage between regional affluence level and its ozone health impact, Environmental Research Letters, 17, 104014, doi:10.1088/1748-9326/ac9009, 2022.
-    (2)	Lulu Chen, Jintai Lin, Randall V. Martin, Mingxi Du, Hongjian Weng, Hao Kong, Ruijing Ni, Jun Meng, Yuhang Zhang, Lijuan Zhang, and Aaron van Donkelaar: Inequality in historical transboundary anthropogenic PM2.5 health impacts, Science Bulletin, doi:10.1016/j.scib.2021.11.007, 2021.
-    (3)	Jintai Lin#, Chunjiang Zhou#, Lulu Chen#, Gang Huang, J.‐F. Lamarque, Ji Nie, Jun Yang, Kaiming Hu, Peng Liu, Jingxu Wang, Yan Xia, Yang Yang, Yongyun Hu: Sulfur emissions from consumption by developed and developing countries produce comparable climate impacts, Nature Geoscience, doi:10.1038/s41561-022-00898-2, 2022.
-    (4)	Jintai Lin#, Mingxi Du#, Lulu Chen#, Kuishuang Feng, Yu Liu, Randall V. Martin, Jingxu Wang, Ruijing Ni, Yu Zhao, Hao Kong, Hongjian Weng, Mengyao Liu, Aaron van Donkelaar, Qiuyu Liu, and Klaus Hubacek: Carbon and health implications of trade restrictions, Nature Communications, 10, 4947, doi:10.1038/s41467-019-12890-3, 2019.
-    (5)	Mingxi Du#, Lulu Chen#, Jintai Lin, Yu Liu, Kuishuang Feng, Qiuyu Liu, Yawen Liu, Jingxu Wang, Ruijing Ni, Yu Zhao, Wei Si, Ying Li, Hao Kong, Hongjian Weng, Mengyao Liu, and Jamiu Adetayo Adeniran: Winners and losers of the Sino–US trade war from economic and environmental perspectives, Environmental Research Letters, 15, 094032, doi:10.1088/1748- 9326/aba3d5, 2020.
-
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
