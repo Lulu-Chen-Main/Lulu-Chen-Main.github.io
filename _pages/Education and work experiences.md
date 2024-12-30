@@ -7,6 +7,7 @@ redirect_from:
 
 
 ## Education experiences
+
 * **2016 - 2021:** <br>
         * Ph.D of Atmospheric Physics and Atmospheric Environment<br>
         * School of Physics, Peking University<br>
@@ -24,6 +25,7 @@ redirect_from:
         <br>
 
 ## Work experiences
+
 * **2024 -:** <br>
         * Postdoctoral Associate <br>
         * Department of Environmental and Occupational Health, The George Washington University <br>
