@@ -8,9 +8,11 @@ main:
 
   - title: "Education and Work Experiences"
     url: /Education and Work/ 
-    
-  - title: "Presentations"
-    url: /presentations/   
-        
+
   - title: "Publications"
     url: /publications/
+    
+  - title: "Meetings"
+    url: /presentations/   
+        
+
