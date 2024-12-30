@@ -6,8 +6,11 @@ author_profile: true
 redirect_from:
 ---
 
-{% include base_path %}
-=============
+*** Meeting Organization**
+ * 2024, Convener of AGU Fall Meeting Session "Air Pollution, Greenhouse Gases, and Emissions in Asia and Its Interactions with the World"
+ * 2023, Convener of AGU Fall Meeting Session "Air Pollution, Greenhouse Gases, and Emissions in Asia and Its Interactions with the World"
+
+*** Presentations**
   * Chemically enhanced transboundary ozone pollution suppresses city-level emission control benefits, Oral presentation at AGU Fall Meeting, San Francisco, USA, 2023.
   * Chemically enhanced transboundary ozone pollution suppresses city-level emission control benefits, Oral presentation at the 8th Youth Geoscience Forum, Wuhan, China, 2023.
   * Inequality in Historical Transboundary Anthropogenic PM2.5 and Ozone Health Impacts, Oral presentation at AOGS Annual Meeting, Online, 2022.
