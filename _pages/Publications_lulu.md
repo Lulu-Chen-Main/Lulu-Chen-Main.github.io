@@ -9,9 +9,12 @@ redirect_from:
 {% include base_path %}
 ==============
 * -------------------- 2024 --------------------
-  * C.-H. Xu, J.-T. Lin, H Kong, J.-L. Jin, **L.-L. Chen**, and X.-B. Xu.: _Rapid Increases of Ozone Concentrations over Tibetan Plateau Caused by Local and Non-Local Factors_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-3471, 2024.
+  * C.-H. Xu, J.-T. Lin, H. Kong, J.-L. Jin, **L.-L. Chen**, and X.-B. Xu.: _Rapid Increases of Ozone Concentrations over Tibetan Plateau Caused by Local and Non-Local Factors_, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-3471, 2024.
+    
   * Yuhang Zhang, Huan Yu, Isabelle De Smedt, Jintai Lin, Nicolas Theys, Michel Van Roozendael, Gaia Pinardi, Steven Compernolle, Ruijing Ni, Fangxuan Ren, Sijie Wang, **Lulu Chen**, Jos Van Geffen, Mengyao Liu, Alexander M. Cede, Alexis Merlaud, Martina M. Friedrich, Andreas Richter, Ankie Piters, Vinod Kumar, Vinayak Sinha, Thomas Wagner, Yongjoo Choi, Hisahiro Takashima, Yugo Kanaya,Hitoshi Irie, Robert Spurr, Wenfu Sun, and Lorenzo Fabris: Global retrieval of TROPOMI tropospheric HCHO and NO2 columns with improved consistency based on updated Peking University OMI NO2 algorithm, Atmos. Meas. Tech. Discuss. [preprint], under review, [http://doi:0.5194/amt-2024-182](https://amt.copernicus.org/preprints/amt-2024-182/), 2024.
+    
   * **Lulu Chen**, Jintai Lin, Junwei Xu, Hao Kong, Hongjian Weng, Yuhang Zhang, Xiao Yun and Shu Tao: Chemically enhanced transboundary ozone pollution suppresses city-level emission control benefits, Under review.
+    
   * Jingxu Wang, Jintai Lin, Yu Liu, Feng Wu,Ruijing Ni, **Lulu Chen**, Fangxuan Ren, Mingxi Du, Zhongyi Li, Haoyu Zhang, and Zhengzhong Liu: Direct and indirect consumption activities drive distinct urban-rural inequalities in air pollution-related mortality in China, Science Bulletin, 69, 4, [doi:10.1016/j.scib.2023.12.023](https://www.sciencedirect.com/science/article/abs/pii/S2095927323008794), 2024.
 * -------------------- 2023 -------------------- 
   * Junwei Xu, Jintai Lin, Dan Tong, and **Lulu Chen**: The underappreciated role of transboundary pollution in future air quality and health improvements in China, Atmospheric Chemistry and Physics, 23, 10075-10089, [doi:10.5194/acp-23-10075-2023](https://acp.copernicus.org/articles/23/10075/2023/acp-23-10075-2023.pdf), 2023.
