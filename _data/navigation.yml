@@ -1,18 +1,16 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# Main navigation
 main:
+  - title: "About"
+    url: /
 
-  - title: "Education and Work Experiences"
-    url: /Education and Work/ 
+  - title: "Experience"
+    url: /experience/
 
   - title: "Publications"
     url: /publications/
-    
-  - title: "Meetings"
-    url: /presentations/   
-        
 
+  - title: "Presentations"
+    url: /presentations/
+
+  - title: "CV"
+    url: /files/CV_LuluChen_2024.docx

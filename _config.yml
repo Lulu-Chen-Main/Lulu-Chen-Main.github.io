@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "George Washington University"
-title                    : "Lulu Chen's homepage"
+locale                   : "en-US"
+title                    : "Lulu Chen | Atmospheric & Environmental Health Scientist"
 title_separator          : "-"
 name                     : &name "Lulu Chen"
-description              : &description "personal description"
+description              : &description "Lulu Chen is an atmospheric and environmental health scientist studying air pollution, satellite remote sensing, environmental justice, and pollution-related health disparities."
 url                      : https://Lulu-Chen-Main.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lulu-Chen-Main/Lulu-Chen-Main.github.io"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "Lulu Chen1.png"
   name             : "Lulu Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Postdoctoral Associate"
-  location         : "Washington D.C."
-  employer         : "The George Washington University"
+  location         : "Washington, DC"
+  employer         : "George Washington University"
   uri              : # URL
   email            : lulu.chen1@gwu.edu
 
@@ -34,13 +34,14 @@ author:
   #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KRReE1YAAAAJ"
   #impactstory      : # URL
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8929-3414"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Lulu-Chen-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   
 
   # Repositories and software development
+  github           : "Lulu-Chen-Main"
 
 # Publication Category - The following the list of publication categories and their headings
 

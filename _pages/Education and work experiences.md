@@ -1,37 +1,32 @@
 ---
 layout: archive
-permalink: /Education and Work/
+permalink: /experience/
 author_profile: true
 redirect_from:
+  - /Education and Work/
 ---
 
+# Education & Experience
 
-## Education experiences
+## Professional experience
 
-* **2016 - 2021:** <br>
-        * Ph.D of Atmospheric Physics and Atmospheric Environment<br>
-        * School of Physics, Peking University<br>
-        * Adviser: [Jintai Lin](https://www.pku-atmos-acm.org/index.php/)<br>
-        <br>
-* **2019 - 2020:** <br>
-        * Visiting scholar <br>
-        * Washington University in St. Louis <br>
-        * Adviser: [Randall Martin](https://engineering.washu.edu/faculty/Randall-Martin.html)  <br>
-        <br>
-* **2012 - 2016:** <br>
-        * B.S. in Atmospheric Sciences <br>
-        * School of Atmospheric Sciences, Nanjing University <br>
-        <br>
-        <br>
+**2024–present — Postdoctoral Associate**  
+Department of Environmental and Occupational Health, Milken Institute School of Public Health, George Washington University, Washington, DC  
+Research focus: satellite remote sensing of air pollution, environmental health, and exposure disparities
 
-## Work experiences
+**2022–2023 — Boya Postdoctoral Fellow**  
+College of Urban and Environmental Sciences, Peking University, Beijing, China  
+Advisor: [Shu Tao](https://ues.pku.edu.cn/Home/Teacher_Home/Shu_Tao/6ae0f9de8653422fa886f6cde9e65950.htm)
 
-* **2024 -:** <br>
-        * Postdoctoral Associate <br>
-        * Department of Environmental and Occupational Health, The George Washington University <br>
-        * PI: [Gaige Kerr](https://publichealth.gwu.edu/departments/environmental-and-occupational-health/gaige-kerr) <br>
+## Education
 
-* **2022 - 2023:**   <br>
-        * Boya Postdoctoral fellowship <br>
-        * College of urban and environmental sciences, Peking University <br>
-        * PI: [Shu Tao](https://ues.pku.edu.cn/Home/Teacher_Home/Shu_Tao/6ae0f9de8653422fa886f6cde9e65950.htm) <br>
+**Ph.D., Atmospheric Physics and Atmospheric Environment, 2021**  
+School of Physics, Peking University, Beijing, China  
+Advisor: [Jintai Lin](https://www.pku-atmos-acm.org/index.php/)
+
+**Visiting Scholar, 2019–2020**  
+Washington University in St. Louis, St. Louis, Missouri, USA  
+Advisor: [Randall V. Martin](https://engineering.washu.edu/faculty/Randall-Martin.html)
+
+**B.S., Atmospheric Sciences, 2016**  
+School of Atmospheric Sciences, Nanjing University, Nanjing, China
