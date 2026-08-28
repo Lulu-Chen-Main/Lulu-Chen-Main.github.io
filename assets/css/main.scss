@@ -187,7 +187,7 @@ body {
 /* Research cards */
 .research-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   margin: 1.35em 0 2.25em;
 }
@@ -244,6 +244,15 @@ body {
 .research-card--amber .research-card__number { color: #9d6c0b; }
 .research-card--blue { border-top: 4px solid #537fb4; }
 .research-card--blue .research-card__number { color: #3c6596; }
+.research-card--violet { border-top: 4px solid #936cab; }
+.research-card--violet .research-card__number { color: #74508c; }
+
+.illustration-note {
+  margin: -1.25em 0 2.4em !important;
+  font-size: 0.74em !important;
+  line-height: 1.5 !important;
+  color: $gray;
+}
 
 /* Climbing-route timeline */
 .route-timeline {

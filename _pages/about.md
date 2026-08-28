@@ -53,7 +53,18 @@ My earlier research examined transboundary air pollution and its health and clim
       <p>I evaluate and apply satellite products to characterize urban pollution, temporal variability, monitoring gaps, and emission-related signals.</p>
     </div>
   </article>
+
+  <article class="research-card research-card--violet">
+    <img src="/images/research/prisma-maternal-exposure.jpg" alt="Conceptual illustration linking environmental exposure information with maternal data in the PRISMA project" loading="lazy">
+    <div class="research-card__body">
+      <span class="research-card__number">04</span>
+      <h3>PRISMA: Maternal & Environmental Health</h3>
+      <p>I link environmental exposure data with maternal data collected through PRISMA to investigate how environmental conditions intersect with maternal health.</p>
+    </div>
+  </article>
 </div>
+
+<p class="illustration-note">Conceptual illustrations were generated with AI and do not represent study data.</p>
 
 ## Selected Recent Publications
 
