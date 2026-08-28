@@ -48,6 +48,11 @@ My earlier research examined transboundary air pollution and its health and clim
 - **2025** — Third place, GW Postdoc Appreciation Day Lightning Talks Competition, for *Daytime Dynamics of NO₂ Inequity: New Insights from the TEMPO Instrument*.
 - **2025** — First-author study on chemically enhanced transboundary ozone pollution published in *Environmental Research Letters*.
 
+<aside class="climbing-note" aria-label="Beyond research">
+  <span class="climbing-note__eyebrow">Beyond Research</span>
+  <p>When I am away from research, I enjoy climbing—a welcome mix of movement, focus, and finding the next hold.</p>
+</aside>
+
 > *“The infinite distance, the countless people—they are all connected to me.”* — Lu Xun
 
 This idea continues to motivate how I think about atmospheric pollution: emissions, atmospheric transport, economic activity, and health connect people across geographic and societal boundaries.
