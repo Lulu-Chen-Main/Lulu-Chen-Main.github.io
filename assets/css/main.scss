@@ -134,6 +134,27 @@ body {
   color: $dark-gray;
 }
 
+.research-cta {
+  margin: 1.35em 0 2em !important;
+}
+
+.research-cta a {
+  display: inline-block;
+  padding: 0.62em 1em;
+  border: 1px solid #537fb4;
+  border-radius: 999px;
+  color: #3c6596;
+  font-weight: 700;
+  text-decoration: none;
+  transition: color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+.research-cta a:hover {
+  color: #fff;
+  background: #537fb4;
+  transform: translateY(-1px);
+}
+
 /* Colorful, uniformly sized climbing holds for content lists */
 .page__content ul {
   padding-left: 0;
@@ -185,6 +206,14 @@ body {
 }
 
 /* Research cards */
+.research-intro {
+  max-width: 760px;
+  margin-bottom: 1.8em !important;
+  font-size: 1.1em !important;
+  line-height: 1.7 !important;
+  color: $dark-gray;
+}
+
 .research-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
