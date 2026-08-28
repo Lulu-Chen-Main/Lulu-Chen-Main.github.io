@@ -134,48 +134,54 @@ body {
   color: $dark-gray;
 }
 
-/* A restrained climbing-route motif for the personal note */
-.climbing-note {
-  position: relative;
-  overflow: hidden;
-  margin: 2.5em 0 2em;
-  padding: 1.2em 4.8em 1.15em 1.35em;
-  border-left: 3px solid #b56b45;
-  border-radius: 0 8px 8px 0;
-  background: linear-gradient(120deg, #faf8f4 0%, #f4eee7 100%);
-  color: $dark-gray;
+/* Colorful, uniformly sized climbing holds for content lists */
+.page__content ul {
+  padding-left: 0;
+  list-style: none;
 }
 
-.climbing-note::after {
+.page__content ul > li {
+  position: relative;
+  padding-left: 1.45em;
+}
+
+.page__content ul > li::before {
   content: "";
   position: absolute;
-  right: 1.4em;
-  bottom: -0.45em;
-  width: 2.9em;
-  height: 4.8em;
-  border-left: 2px solid rgba(#b56b45, 0.42);
-  border-radius: 48% 0 0 0;
-  transform: rotate(18deg);
+  top: 0.62em;
+  left: 0.08em;
+  width: 0.62em;
+  height: 0.62em;
+  border-radius: 58% 42% 52% 48% / 45% 55% 45% 55%;
+  background: #d65f4a;
   box-shadow:
-    0.72em -0.45em 0 -0.55em #b56b45,
-    -0.18em -1.75em 0 -0.52em #75826b,
-    0.82em -3.05em 0 -0.54em #b56b45;
+    inset -1px -1px 1px rgba(#000, 0.2),
+    0 1px 1px rgba(#000, 0.08);
+  transform: rotate(-12deg);
 }
 
-.climbing-note__eyebrow {
-  display: block;
-  margin-bottom: 0.35em;
-  font-size: 0.76em;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #8d5135;
+.page__content ul > li:nth-child(5n + 2)::before {
+  border-radius: 44% 56% 38% 62% / 57% 39% 61% 43%;
+  background: #e2a93b;
+  transform: rotate(18deg);
 }
 
-.climbing-note p {
-  margin: 0 !important;
-  font-size: 0.96em !important;
-  line-height: 1.6 !important;
+.page__content ul > li:nth-child(5n + 3)::before {
+  border-radius: 62% 38% 55% 45% / 40% 58% 42% 60%;
+  background: #4f8f78;
+  transform: rotate(7deg);
+}
+
+.page__content ul > li:nth-child(5n + 4)::before {
+  border-radius: 40% 60% 48% 52% / 62% 44% 56% 38%;
+  background: #537fb4;
+  transform: rotate(-20deg);
+}
+
+.page__content ul > li:nth-child(5n)::before {
+  border-radius: 55% 45% 35% 65% / 48% 62% 38% 52%;
+  background: #936cab;
+  transform: rotate(25deg);
 }
 
 /* Cleaner author card */
@@ -237,7 +243,4 @@ body {
     font-size: 1.08em !important;
   }
 
-  .climbing-note {
-    padding-right: 3.8em;
-  }
 }
