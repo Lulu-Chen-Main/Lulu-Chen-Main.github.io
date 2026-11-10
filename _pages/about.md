@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Lulu Chen"
+description: "Lulu Chen, PhD, is a Postdoctoral Associate at the George Washington University (GWU) Milken Institute School of Public Health. She studies air pollution, satellite remote sensing, and environmental health."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +10,7 @@ redirect_from:
 
 <p class="home-kicker">Atmospheric Science · Environmental Health · Satellite Remote Sensing</p>
 
-<p class="home-lead">I am a Postdoctoral Associate in the Department of Environmental and Occupational Health at the <strong>Milken Institute School of Public Health, George Washington University</strong>. My research examines how air pollution varies across space and time, why some communities experience greater pollution burdens, and how satellite observations can improve our understanding of these disparities.</p>
+<p class="home-lead">I am a Postdoctoral Associate in the Department of Environmental and Occupational Health at the <strong>Milken Institute School of Public Health, George Washington University (GWU)</strong>. My research examines how air pollution varies across space and time, why some communities experience greater pollution burdens, and how satellite observations can improve our understanding of these disparities.</p>
 
 My current research combines **satellite remote sensing**, atmospheric and statistical modeling, ground-based observations, emissions and transportation data, and demographic and health datasets. A major focus of my work is using new-generation geostationary satellite observations, particularly **TEMPO**, to characterize daytime variations in nitrogen dioxide (NO<sub>2</sub>) pollution and environmental inequities across North America. I am also investigating the links among **warehousing, freight activity, NO<sub>2</sub> pollution, population exposure, and health burdens**.
 
